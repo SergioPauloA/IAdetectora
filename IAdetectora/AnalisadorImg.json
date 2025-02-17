@@ -1,0 +1,6 @@
+{
+    "Azure": {
+        "ApiKey": "sua-chave-api-aqui",
+        "Endpoint": "seu-endpoint-aqui"
+    }
+}
